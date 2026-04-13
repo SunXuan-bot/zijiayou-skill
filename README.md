@@ -9,7 +9,7 @@
 **孙轩（武汉驾到）**
 
 - 旅行爱好者，AI工具实践者
-- GitHub: [@wulien](https://github.com/wulien)
+- GitHub: [@SunXuan-bot](https://github.com/SunXuan-bot)
 - 微信：`dave0916`（欢迎交流AI + 自驾游）
 
 ---
